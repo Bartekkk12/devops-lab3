@@ -1,6 +1,6 @@
 # devops-lab3
 
 # Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Bartosz 
+Nazwisko: Pirog
+Ulubiona technologia: C++
