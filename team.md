@@ -3,4 +3,4 @@
 # Informacje o członku zespołu
 Imię: Bartosz 
 Nazwisko: Pirog
-Ulubiona technologia: C
+Ulubiona technologia: C++
