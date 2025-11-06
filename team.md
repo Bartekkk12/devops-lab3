@@ -1,6 +1,8 @@
 # devops-lab3
 
 # Informacje o członku zespołu
-Imię: Bartosz 
-Nazwisko: Pirog
-Ulubiona technologia: C
+
+Imię: Tymek
+Nazwisko: Lach
+Ulubiona technologia: python
+

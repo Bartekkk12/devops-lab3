@@ -1,1 +1,2 @@
-to jest wersja glowna
+To jest moja wersja tymek
+
